@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>cool website!</title>
+</head>
+<body>
+<h1>This is the most important
+heading.</h!
+<img http://www.skimo.co/image/data/camp/crest-shovel.jpg>
+<p>This is a Shovel.</p>
+</bady>
+</html>
